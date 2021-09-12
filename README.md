@@ -1,0 +1,2 @@
+# techcommit_ruby_fizzbuzz_02
+FizzBuzz問題の応用編
